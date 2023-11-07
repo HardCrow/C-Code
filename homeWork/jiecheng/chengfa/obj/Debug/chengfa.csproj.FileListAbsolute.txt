@@ -1,0 +1,6 @@
+D:\c#code\homeWork\jiecheng\chengfa\bin\Debug\chengfa.exe.config
+D:\c#code\homeWork\jiecheng\chengfa\bin\Debug\chengfa.exe
+D:\c#code\homeWork\jiecheng\chengfa\bin\Debug\chengfa.pdb
+D:\c#code\homeWork\jiecheng\chengfa\obj\Debug\chengfa.csproj.CoreCompileInputs.cache
+D:\c#code\homeWork\jiecheng\chengfa\obj\Debug\chengfa.exe
+D:\c#code\homeWork\jiecheng\chengfa\obj\Debug\chengfa.pdb

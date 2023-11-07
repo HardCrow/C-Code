@@ -1,0 +1,6 @@
+D:\c#code\homeWork\jiecheng\suShuPanDuan\bin\Debug\suShuPanDuan.exe.config
+D:\c#code\homeWork\jiecheng\suShuPanDuan\bin\Debug\suShuPanDuan.exe
+D:\c#code\homeWork\jiecheng\suShuPanDuan\bin\Debug\suShuPanDuan.pdb
+D:\c#code\homeWork\jiecheng\suShuPanDuan\obj\Debug\suShuPanDuan.csproj.CoreCompileInputs.cache
+D:\c#code\homeWork\jiecheng\suShuPanDuan\obj\Debug\suShuPanDuan.exe
+D:\c#code\homeWork\jiecheng\suShuPanDuan\obj\Debug\suShuPanDuan.pdb

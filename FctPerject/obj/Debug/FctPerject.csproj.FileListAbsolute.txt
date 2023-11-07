@@ -1,0 +1,7 @@
+D:\c#code\FctPerject\bin\Debug\FctPerject.exe.config
+D:\c#code\FctPerject\bin\Debug\FctPerject.exe
+D:\c#code\FctPerject\bin\Debug\FctPerject.pdb
+D:\c#code\FctPerject\obj\Debug\FctPerject.csproj.AssemblyReference.cache
+D:\c#code\FctPerject\obj\Debug\FctPerject.csproj.CoreCompileInputs.cache
+D:\c#code\FctPerject\obj\Debug\FctPerject.exe
+D:\c#code\FctPerject\obj\Debug\FctPerject.pdb

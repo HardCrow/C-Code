@@ -1,0 +1,7 @@
+D:\c#code\homeWork\jiecheng\jiecheng\bin\Debug\jiecheng.exe.config
+D:\c#code\homeWork\jiecheng\jiecheng\bin\Debug\jiecheng.exe
+D:\c#code\homeWork\jiecheng\jiecheng\bin\Debug\jiecheng.pdb
+D:\c#code\homeWork\jiecheng\jiecheng\obj\Debug\jiecheng.csproj.AssemblyReference.cache
+D:\c#code\homeWork\jiecheng\jiecheng\obj\Debug\jiecheng.csproj.CoreCompileInputs.cache
+D:\c#code\homeWork\jiecheng\jiecheng\obj\Debug\jiecheng.exe
+D:\c#code\homeWork\jiecheng\jiecheng\obj\Debug\jiecheng.pdb

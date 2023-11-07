@@ -1,0 +1,7 @@
+D:\c#code\Se\Se\bin\Debug\Se.exe.config
+D:\c#code\Se\Se\bin\Debug\Se.exe
+D:\c#code\Se\Se\bin\Debug\Se.pdb
+D:\c#code\Se\Se\obj\Debug\Se.csproj.AssemblyReference.cache
+D:\c#code\Se\Se\obj\Debug\Se.csproj.CoreCompileInputs.cache
+D:\c#code\Se\Se\obj\Debug\Se.exe
+D:\c#code\Se\Se\obj\Debug\Se.pdb

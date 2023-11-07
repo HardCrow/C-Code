@@ -1,0 +1,7 @@
+D:\c#code\First\First\bin\Debug\First.exe.config
+D:\c#code\First\First\bin\Debug\First.exe
+D:\c#code\First\First\bin\Debug\First.pdb
+D:\c#code\First\First\obj\Debug\First.csproj.AssemblyReference.cache
+D:\c#code\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+D:\c#code\First\First\obj\Debug\First.exe
+D:\c#code\First\First\obj\Debug\First.pdb

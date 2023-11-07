@@ -1,0 +1,6 @@
+D:\c#code\homeWork\Huang24-4-4\Huang24-4-4\bin\Debug\Huang24-4-4.exe.config
+D:\c#code\homeWork\Huang24-4-4\Huang24-4-4\bin\Debug\Huang24-4-4.exe
+D:\c#code\homeWork\Huang24-4-4\Huang24-4-4\bin\Debug\Huang24-4-4.pdb
+D:\c#code\homeWork\Huang24-4-4\Huang24-4-4\obj\Debug\Huang24-4-4.csproj.CoreCompileInputs.cache
+D:\c#code\homeWork\Huang24-4-4\Huang24-4-4\obj\Debug\Huang24-4-4.exe
+D:\c#code\homeWork\Huang24-4-4\Huang24-4-4\obj\Debug\Huang24-4-4.pdb

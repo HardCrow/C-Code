@@ -1,0 +1,7 @@
+D:\c#code\ZuHe\XiuShi\bin\Debug\XiuShi.exe.config
+D:\c#code\ZuHe\XiuShi\bin\Debug\XiuShi.exe
+D:\c#code\ZuHe\XiuShi\bin\Debug\XiuShi.pdb
+D:\c#code\ZuHe\XiuShi\obj\Debug\XiuShi.csproj.AssemblyReference.cache
+D:\c#code\ZuHe\XiuShi\obj\Debug\XiuShi.csproj.CoreCompileInputs.cache
+D:\c#code\ZuHe\XiuShi\obj\Debug\XiuShi.exe
+D:\c#code\ZuHe\XiuShi\obj\Debug\XiuShi.pdb

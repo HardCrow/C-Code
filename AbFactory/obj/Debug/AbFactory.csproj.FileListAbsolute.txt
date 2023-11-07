@@ -1,0 +1,7 @@
+D:\c#code\AbFactory\bin\Debug\AbFactory.exe.config
+D:\c#code\AbFactory\bin\Debug\AbFactory.exe
+D:\c#code\AbFactory\bin\Debug\AbFactory.pdb
+D:\c#code\AbFactory\obj\Debug\AbFactory.csproj.AssemblyReference.cache
+D:\c#code\AbFactory\obj\Debug\AbFactory.csproj.CoreCompileInputs.cache
+D:\c#code\AbFactory\obj\Debug\AbFactory.exe
+D:\c#code\AbFactory\obj\Debug\AbFactory.pdb

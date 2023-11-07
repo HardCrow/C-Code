@@ -1,0 +1,6 @@
+D:\c#code\homeWork\sushu\bin\Debug\sushu.exe.config
+D:\c#code\homeWork\sushu\bin\Debug\sushu.exe
+D:\c#code\homeWork\sushu\bin\Debug\sushu.pdb
+D:\c#code\homeWork\sushu\obj\Debug\sushu.csproj.CoreCompileInputs.cache
+D:\c#code\homeWork\sushu\obj\Debug\sushu.exe
+D:\c#code\homeWork\sushu\obj\Debug\sushu.pdb

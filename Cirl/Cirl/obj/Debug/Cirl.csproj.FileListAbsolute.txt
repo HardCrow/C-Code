@@ -1,0 +1,7 @@
+D:\c#code\Cirl\Cirl\obj\Debug\Cirl.csproj.AssemblyReference.cache
+D:\c#code\Cirl\Cirl\obj\Debug\Cirl.csproj.CoreCompileInputs.cache
+D:\c#code\Cirl\Cirl\bin\Debug\Cirl.exe.config
+D:\c#code\Cirl\Cirl\bin\Debug\Cirl.exe
+D:\c#code\Cirl\Cirl\bin\Debug\Cirl.pdb
+D:\c#code\Cirl\Cirl\obj\Debug\Cirl.exe
+D:\c#code\Cirl\Cirl\obj\Debug\Cirl.pdb

@@ -1,0 +1,7 @@
+D:\c#code\yuanXingModle\yuanXingModle\obj\Debug\yuanXingModle.csproj.AssemblyReference.cache
+D:\c#code\yuanXingModle\yuanXingModle\obj\Debug\yuanXingModle.csproj.CoreCompileInputs.cache
+D:\c#code\yuanXingModle\yuanXingModle\bin\Debug\yuanXingModle.exe.config
+D:\c#code\yuanXingModle\yuanXingModle\bin\Debug\yuanXingModle.exe
+D:\c#code\yuanXingModle\yuanXingModle\bin\Debug\yuanXingModle.pdb
+D:\c#code\yuanXingModle\yuanXingModle\obj\Debug\yuanXingModle.exe
+D:\c#code\yuanXingModle\yuanXingModle\obj\Debug\yuanXingModle.pdb

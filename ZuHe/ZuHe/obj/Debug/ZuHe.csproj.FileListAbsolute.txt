@@ -1,0 +1,7 @@
+D:\c#code\ZuHe\ZuHe\bin\Debug\ZuHe.exe.config
+D:\c#code\ZuHe\ZuHe\bin\Debug\ZuHe.exe
+D:\c#code\ZuHe\ZuHe\bin\Debug\ZuHe.pdb
+D:\c#code\ZuHe\ZuHe\obj\Debug\ZuHe.csproj.AssemblyReference.cache
+D:\c#code\ZuHe\ZuHe\obj\Debug\ZuHe.csproj.CoreCompileInputs.cache
+D:\c#code\ZuHe\ZuHe\obj\Debug\ZuHe.exe
+D:\c#code\ZuHe\ZuHe\obj\Debug\ZuHe.pdb

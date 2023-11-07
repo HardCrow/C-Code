@@ -1,0 +1,7 @@
+D:\c#code\FactorySec\FactorySec\bin\Debug\FactorySec.exe.config
+D:\c#code\FactorySec\FactorySec\bin\Debug\FactorySec.exe
+D:\c#code\FactorySec\FactorySec\bin\Debug\FactorySec.pdb
+D:\c#code\FactorySec\FactorySec\obj\Debug\FactorySec.csproj.AssemblyReference.cache
+D:\c#code\FactorySec\FactorySec\obj\Debug\FactorySec.csproj.CoreCompileInputs.cache
+D:\c#code\FactorySec\FactorySec\obj\Debug\FactorySec.exe
+D:\c#code\FactorySec\FactorySec\obj\Debug\FactorySec.pdb

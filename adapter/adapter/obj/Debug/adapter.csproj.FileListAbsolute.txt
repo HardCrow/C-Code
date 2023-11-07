@@ -1,0 +1,7 @@
+D:\c#code\adapter\adapter\bin\Debug\adapter.exe.config
+D:\c#code\adapter\adapter\bin\Debug\adapter.exe
+D:\c#code\adapter\adapter\bin\Debug\adapter.pdb
+D:\c#code\adapter\adapter\obj\Debug\adapter.csproj.AssemblyReference.cache
+D:\c#code\adapter\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+D:\c#code\adapter\adapter\obj\Debug\adapter.exe
+D:\c#code\adapter\adapter\obj\Debug\adapter.pdb

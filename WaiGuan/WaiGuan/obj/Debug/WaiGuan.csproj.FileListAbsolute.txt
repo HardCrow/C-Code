@@ -1,0 +1,7 @@
+D:\c#code\WaiGuan\WaiGuan\bin\Debug\WaiGuan.exe.config
+D:\c#code\WaiGuan\WaiGuan\bin\Debug\WaiGuan.exe
+D:\c#code\WaiGuan\WaiGuan\bin\Debug\WaiGuan.pdb
+D:\c#code\WaiGuan\WaiGuan\obj\Debug\WaiGuan.csproj.AssemblyReference.cache
+D:\c#code\WaiGuan\WaiGuan\obj\Debug\WaiGuan.csproj.CoreCompileInputs.cache
+D:\c#code\WaiGuan\WaiGuan\obj\Debug\WaiGuan.exe
+D:\c#code\WaiGuan\WaiGuan\obj\Debug\WaiGuan.pdb

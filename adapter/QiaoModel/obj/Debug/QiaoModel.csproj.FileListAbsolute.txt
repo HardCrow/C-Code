@@ -1,0 +1,6 @@
+D:\c#code\adapter\QiaoModel\obj\Debug\QiaoModel.csproj.CoreCompileInputs.cache
+D:\c#code\adapter\QiaoModel\bin\Debug\QiaoModel.exe.config
+D:\c#code\adapter\QiaoModel\bin\Debug\QiaoModel.exe
+D:\c#code\adapter\QiaoModel\bin\Debug\QiaoModel.pdb
+D:\c#code\adapter\QiaoModel\obj\Debug\QiaoModel.exe
+D:\c#code\adapter\QiaoModel\obj\Debug\QiaoModel.pdb
